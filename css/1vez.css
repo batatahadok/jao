@@ -1,0 +1,35 @@
+
+body {
+    background-image: url("https://img.olhardigital.com.br/uploads/acervo_imagens/2019/09/r16x9/20190910100427_1200_675_-_galaxia.jpg");
+    background-size: auto 100vh;
+    color: white;
+    font-family: comic sans, cursive;
+    height: 100vh;
+    text-shadow: #000 4px 4px 4px;
+    }
+  
+  .menu ul {  
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+    a{
+    color: teal;
+    text-decoration: none;
+  }  
+  }
+  
+  .title {
+    
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  h2 {
+    font-size: 400%}
+  }
+  
+  
+  
